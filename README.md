@@ -1,6 +1,6 @@
-<h1 align="center">Profile Card | Thug Techies</h1>
-  
-<img src="https://cardivo.vercel.app/api?name=Thug%20Techies%20&description=Hello,%20Welcome%20To%20My%20Profile%20%F0%9F%96%A4&backgroundColor=%23FFFFFF&fontColor=%23019393&github=thugtechies&image=https://l.top4top.io/p_35589v64h0.jpg&colorPattern=%23C4C4C4&pattern=ticTacToe&opacity=0.2" align="center">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Thug%20Techies%20&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20API%20Developer%20|%20Software%20Enginner&descAlignY=55&descSize=15"/>
+</div>
 
 <p align="center">
   <a href="https://github.com/thugtechies"><img src="http://readme-typing-svg.herokuapp.com?font=Kanit&color=30A7F7FF&size=30&center=true&vCenter=true&width=500&height=51&multiline=false&lines=Building+one+commit+at+a+time...." alt="Nevt">
@@ -20,6 +20,10 @@
   <a href="mailto: thugtechies@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" />
   <a href="https://github.com/thugtechies"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" /> 
 </p>
+
+<div align="center">
+  <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</div>
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
