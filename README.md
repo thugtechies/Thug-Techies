@@ -5,7 +5,7 @@
 <h1 align="center">𒄆𓉳 ƬӇƱƓƝƖƑƖƇƐƝƬ𓉳𒄆's Profile Card</h1>
   
 <div align="center">
-  <img src="https://cardivo.vercel.app/api?name=Thug%20Techies&description=Beginner%20developer%20%7C%20Exploring%20coding%20%7C%20Building%20WhatsApp%20bots%20%7C%20Loves%20aesthetic%20designs&backgroundColor=%23A9A9A9&fontColor=%23FFFFF0&github=thugtechies&image=https://f.top4top.io/p_35595ol1q0.jpg&colorPattern=%23C4C4C4&pattern=ticTacToe&opacity=0.25&instagram=thug_techies&twitter=THUGN_F_CENT" align="center">
+  <img src="https://cardivo.vercel.app/api?name=Thug%20Techies&description=Beginner%20developer%20%7C%20Exploring%20coding%20%7C%20Building%20WhatsApp%20bots%20%7C%20Loves%20aesthetic%20designs&backgroundColor=%23555555&fontColor=%23F5F5F5&github=thugtechies&image=https://f.top4top.io/p_35595ol1q0.jpg&colorPattern=%23C4C4C4&pattern=ticTacToe&opacity=0.25&instagram=thug_techies&twitter=THUGN_F_CENT" align="center">
 </div>
 
 <p align="center">
