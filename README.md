@@ -2,11 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:555555,100:333333&height=200&text=Home%20Of%20Thug%20Techies&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Beginner%20Developer%20%7C%20Exploring%20Coding%20%7C%20WhatsApp%20Bots%20Aesthetics&descAlignY=55&descSize=15"/>
 </div>
 
+---
+
 <h1 align="center">𒄆𓉳 ƬӇƱƓƝƖƑƖƇƐƝƬ𓉳𒄆's Profile Card</h1>
-  
+
 <div align="center">
-  <img src="https://cardivo.vercel.app/api?name=Thug%20Techies&description=Beginner%20developer%20%7C%20Exploring%20coding%20%7C%20Building%20WhatsApp%20bots%20%7C%20Loves%20aesthetic%20designs&backgroundColor=%23555555&fontColor=%23F5F5F5&github=thugtechies&image=https://f.top4top.io/p_35595ol1q0.jpg&colorPattern=%23C4C4C4&pattern=ticTacToe&opacity=0.25&instagram=thug_techies&twitter=THUGN_F_CENT" align="center">
+  <img src="https://cardivo.vercel.app/api?name=Thug%20Techies&description=Beginner%20developer%20%7C%20Exploring%20coding%20%7C%20Building%20WhatsApp%20bots%20%7C%20Loves%20aesthetic%20designs&backgroundColor=%23555555&fontColor=%23F5F5F5&github=thugtechies&image=https://f.top4top.io/p_35595ol1q0.jpg&colorPattern=%23C4C4C4&pattern=ticTacToe&opacity=0.25&instagram=thug_techies&twitter=THUGN_F_CENT" />
 </div>
+
+---
 
 <p align="center">
   <a href="https://github.com/thugtechies">
@@ -15,15 +19,15 @@
 </p>
 
 <p align="center">
-  Orewa <b>Thug</b>. A beginner with minimal coding knowledge
+  Hello, I'm <b>Thug</b>. A beginner with minimal coding knowledge
 </p>
 
 <p align="center">
-  💻 Passionate about learning programming and building cool projects<br>
-  🚀 Interested in web development, APIs, and automation<br>
-  🎨 Enjoy experimenting with aesthetic designs<br>
-  📱 Curious about WhatsApp bots, custom commands, and creative integrations<br>
-  🌱 Currently exploring how to improve my coding skills step by step<br>
+  💻 Passionate about learning programming and building cool projects <br>
+  🚀 Interested in web development, APIs, and automation <br>
+  🎨 Enjoy experimenting with aesthetic designs <br>
+  📱 Curious about WhatsApp bots, custom commands, and creative integrations <br>
+  🌱 Currently exploring how to improve my coding skills step by step <br>
 </p>
 
 ---
@@ -44,14 +48,16 @@
 </div>
 
 ---
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=thugtechies&cc=000&tc=fff&ic=fff&bc=000" alt="Stats">
-  
----  
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThugTechies&theme=algolia&layout=pie&hide_border=true&title_color=FFFFFF&text_color=E0E0E0&bg_color=333333&icon_color=63A4FF" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThugTechies&theme=algolia&layout=pie&hide_border=true&title_color=FFFFFF&text_color=E0E0E0&bg_color=333333&icon_color=63A4FF" />
+</p>
 
 ---
 
@@ -62,8 +68,8 @@
 
 ---
 
+<h2 align="center">📈 Graph</h2>
 <div align="center">
-  <h2>📈 Graph</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thugtechies&bg_color=000000&color=63a4ff&line=83eaf1&point=63a4ff&area=true&hide_border=true&radius=8" width="100%">
 </div>
 
@@ -84,4 +90,8 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:555555,100:333333&height=120&section=footer"/>
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:555555,100:333333&height=120&section=footer"/>
+</div>
