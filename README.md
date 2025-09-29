@@ -5,7 +5,7 @@
 <h1 align="center">𒄆𓉳 ƬӇƱƓƝƖƑƖƇƐƝƬ𓉳𒄆's Profile Card</h1>
   
 <div align="center">
-  <img src="https://cardivo.vercel.app/api?name=Thug%20Techies&description=Beginner%20developer%20%7C%20Exploring%20coding%20%7C%20Building%20WhatsApp%20bots%20%7C%20Loves%20aesthetic%20designs&backgroundColor=333333&fontColor=FFFFFF&image=https://f.top4top.io/p_35595ol1q0.jpg&colorPattern=C4C4C4&pattern=ticTacToe&opacity=0.25&instagram=thug_techies&twitter=THUGN_F_CENT" align="center">
+  <img src="https://cardivo.vercel.app/api?name=Thug%20Techies&description=Beginner%20developer%20%7C%20Exploring%20coding%20%7C%20Building%20WhatsApp%20bots%20%7C%20Loves%20aesthetic%20designs&backgroundColor=333333&fontColor=F8F8FF&image=https://f.top4top.io/p_35595ol1q0.jpg&colorPattern=F8F8FF&pattern=ticTacToe&opacity=0.25&instagram=thug_techies&twitter=THUGN_F_CENT&github=thugtechies" align="center">
 </div>
 
 <p align="center">
@@ -61,7 +61,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/thugtechies"><img src="http://readme-typing-svg.herokuapp.com?font=Kanit&color=FFFFFF&size=30&center=true&vCenter=true&width=500&height=51&multiline=false&lines=Thanks+for+stopping+by!+👋;See+you+next+time!+👋;Keep+coding,+keep+creating!+💻" alt="Nevt">
+  <a href="https://github.com/thugtechies"><img src="http://readme-typing-svg.herokuapp.com?font=Kanit&color=FFFFFF&size=30&center=true&vCenter=true&width=500&height=51&multiline=false&lines=Thanks+for+stopping+by!+👋;See+you+next+time!+👋;Keep+coding,+keep+creating!+💻+☕" alt="Nevt">
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:555555,100:333333&height=120&section=footer"/>
