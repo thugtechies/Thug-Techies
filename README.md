@@ -47,13 +47,6 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-  <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-</div>
-
-
----
-
 
 
 <p align="center">
@@ -84,6 +77,12 @@
 </div>
 
 ---
+
+<div align="center">
+  <h2>Let's Go Global 🌐</h2>
+  <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</div>
+
 
 <p align="center">
   <a href="https://github.com/thugtechies">
