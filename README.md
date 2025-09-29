@@ -24,11 +24,6 @@
   🌱 Currently exploring how to improve my coding skills step by step<br>
 </p>
 
-### Tools ⚒️
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,mongodb,wordpressvercel,nodejs,heroku)](https://github.com/Jurredr/github-widgetbox)
-
-
 <h2 align="center">💡 More Enquires 💡</h2>
 <p align="center">
   <!--img src="https://f.top4top.io/p_3558wtdae0.jpg" alt="banner" width="200" height="200"-->
@@ -65,6 +60,10 @@ https://github-stats-alpha.vercel.app/api?username=thugtechies&cc=000&tc=fff&ic=
   <h2> Graph 📈 </h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thugtechies&bg_color=000000&color=63a4ff&line=83eaf1&point=63a4ff&area=true&hide_border=true&radius=8" width="100%">
 </div>
+
+### Tools ⚒️
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,mongodb,nodejs,heroku&theme=muted)](https://github.com/Jurredr/github-widgetbox)
 
 
 <p align="center">
