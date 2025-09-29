@@ -24,7 +24,7 @@
   🌱 Currently exploring how to improve my coding skills step by step<br>
 </p>
 
-  <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=thugtechies&data=followers,repositories,stars,commits&theme=muted"/>
+  <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=thugtechies&data=repositories,stars,commits&theme=muted"/>
   
 <h2 align="center">💡 More Enquires 💡</h2>
 <p align="center">
