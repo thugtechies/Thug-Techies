@@ -26,11 +26,7 @@
 
 ### Tools ⚒️
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=javascript,python,html&theme=muted)](https://github.com/Jurredr/github-widgetbox)  
-
-### Apps I Use 📲
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=youtube,discord,whatsapp,instagram,github,git&theme=muted)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,mongodb,wordpressvercel,nodejs,heroku)](https://github.com/Jurredr/github-widgetbox)
 
 
 <h2 align="center">💡 More Enquires 💡</h2>
