@@ -32,7 +32,7 @@
   <a href="mailto:thugtechies@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" /></a>
   <a href="https://github.com/thugtechies"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" /></a>
   <a href="https://whatsapp.com/channel/0029VaoOiuwDp2QH070eTE01"><img src="https://img.shields.io/badge/WhatsApp%20Channel-075E54?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://youtube.com/@thuggthecreator?si=LeVVgTrQgSm2I0gZ"><img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://youtube.com/@thuggthecreator"><img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 
@@ -51,4 +51,9 @@
   <a href="https://github.com/thugtechies"><img src="https://count.getloli.com/get/@thugtechies?theme=rule34" alt="visitor"></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=120&section=footer"/>
+<div align="center">
+  <h2> Graph 📈 </h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thugtechies&bg_color=333333&color=63a4ff&line=83eaf1&point=63a4ff&area=true&hide_border=true&radius=8" width="100%">
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:555555,100:333333&height=120&section=footer"/>
