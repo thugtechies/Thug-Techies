@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:555555,100:333333&height=200&text=Thug%20Techies&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Beginner%20Developer%20%7C%20Exploring%20Coding%20%7C%20WhatsApp%20Bots%20Aesthetics&descAlignY=55&descSize=15"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:555555,100:333333&height=200&text=Home%20Of%20Thug%20Techies&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Beginner%20Developer%20%7C%20Exploring%20Coding%20%7C%20WhatsApp%20Bots%20Aesthetics&descAlignY=55&descSize=15"/>
 </div>
 
 <h1 align="center">𒄆𓉳 ƬӇƱƓƝƖƑƖƇƐƝƬ𓉳𒄆's Profile Card</h1>
@@ -46,9 +46,15 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThugTechies&theme=algolia&hide_border=false&include_all_commits=true&count_private=true"><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThugTechies&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  <img src="https://github-stats-alpha.vercel.app/api?username=thugtechies&cc=000&tc=fff&ic=fff&bc=000" alt="Stats">
+  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThugTechies&theme=algolia&layout=pie&hide_border=true&title_color=FFFFFF&text_color=E0E0E0&bg_color=333333&icon_color=63A4FF" />
+
+<!-- GitHub stats card with theme and optional hiding -->
+<img src="https://github-readme-stats.vercel.app/api?username=ThugTechies&theme=algolia&show_icons=true&hide_border=true&title_color=FFFFFF&text_color=E0E0E0&icon_color=63A4FF&bg_color=333333" />
 </p>
+
 
 ---
 
