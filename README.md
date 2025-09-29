@@ -50,6 +50,7 @@
 </p>
 <h2></h2>
 <p align="center">
+  <h2> Visitors Count 👥 </h2>
   <a href="https://github.com/thugtechies"><img src="https://count.getloli.com/get/@thugtechies?theme=rule34" alt="visitor"></a>
 </p>
 
@@ -58,7 +59,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thugtechies&bg_color=000000&color=63a4ff&line=83eaf1&point=63a4ff&area=true&hide_border=true&radius=8" width="100%">
 </div>
 
-<div align="center">
+<div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+👋;See+you+next+time!+👋;Keep+coding,+keep+creating!+💻" alt="Typing SVG" />
   </a>
