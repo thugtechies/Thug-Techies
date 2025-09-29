@@ -12,6 +12,8 @@
 
 ---
 
+<h2 align="center">✍️ Introduction</h2>
+
 <p align="center">
   <a href="https://github.com/thugtechies">
     <img src="http://readme-typing-svg.herokuapp.com?font=Kanit&color=FFFFFF&size=30&center=true&vCenter=true&width=500&height=51&lines=Building+one+commit+at+a+time...." alt="Typing SVG">
@@ -41,6 +43,7 @@
   <a href="https://youtube.com/@thuggthecreator"><img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
+---
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -48,19 +51,9 @@
   <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
 
----
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thugtechies&bg_color=000000&color=63a4ff&line=83eaf1&point=63a4ff&area=true&hide_border=true&radius=8" width="100%">
-</div>
-
----
-
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=thugtechies&cc=000&tc=fff&ic=fff&bc=000" alt="Stats">
 </p>
-
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThugTechies&theme=algolia&layout=pie&hide_border=true&title_color=FFFFFF&text_color=E0E0E0&bg_color=333333&icon_color=63A4FF" />
@@ -81,6 +74,13 @@
     <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,mongodb,nodejs,heroku&theme=muted">
   </a>
 </p>
+
+---
+
+<h2 align="center">📈 Contribution Graph</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thugtechies&bg_color=000000&color=63a4ff&line=83eaf1&point=63a4ff&area=true&hide_border=true&radius=8" width="100%">
+</div>
 
 ---
 
