@@ -48,13 +48,9 @@
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=thugtechies&cc=000&tc=fff&ic=fff&bc=000" alt="Stats">
   
+---  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThugTechies&theme=algolia&layout=pie&hide_border=true&title_color=FFFFFF&text_color=E0E0E0&bg_color=333333&icon_color=63A4FF" />
-
-<!-- GitHub stats card with theme and optional hiding -->
-<img src="https://github-readme-stats.vercel.app/api?username=ThugTechies&theme=algolia&show_icons=true&hide_border=true&title_color=FFFFFF&text_color=E0E0E0&icon_color=63A4FF&bg_color=333333" />
-</p>
-
 
 ---
 
