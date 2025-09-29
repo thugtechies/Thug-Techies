@@ -51,9 +51,6 @@
   <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
 
-<p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=thugtechies&cc=000&tc=fff&ic=fff&bc=000" alt="Stats">
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThugTechies&theme=algolia&layout=pie&hide_border=true&title_color=FFFFFF&text_color=E0E0E0&bg_color=333333&icon_color=63A4FF" />
