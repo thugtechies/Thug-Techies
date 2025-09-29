@@ -1,6 +1,10 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:555555,100:333333&height=200&text=Thug%20Techies&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Beginner%20Developer%20%7C%20Exploring%20Coding%20%7C%20WhatsApp%20Bots%20Aesthetics&descAlignY=55&descSize=15"/>
+</div>
+
 <h1 align="center">Profile Card | 𒄆𓉳 ƬӇƱƓƝƖƑƖƇƐƝƬ𓉳𒄆</h1>
   
-<img src="https://cardivo.vercel.app/api?name=Thug%20Techies&description=Hi,%20Welcome%20To%20My%20Profile%20%E2%9D%A4&backgroundColor=%23333333&fontColor=%23FFFFFF&github=Thug%20Techies%20&image=https://f.top4top.io/p_35595ol1q0.jpg&colorPattern=%23C4C4C4&pattern=ticTacToe&opacity=0.25" align="center">
+<img src="https://cardivo.vercel.app/api?name=Thug%20Techies&description=Beginner%20developer%20%7C%20Exploring%20coding%20%7C%20Building%20WhatsApp%20bots%20%7C%20Loves%20cyberpunk%20%26%20aesthetic%20designs&backgroundColor=%23333333&fontColor=%23FFFFFF&github=thugtechies&instagram=thug_techies&twitter=THUGN_F_CENT&youtube=ThuggTheCreator&image=https://f.top4top.io/p_35595ol1q0.jpg&colorPattern=%23C4C4C4&pattern=ticTacToe&opacity=0.25" align="center">
 
 <p align="center">
   <a href="https://github.com/thugtechies"><img src="http://readme-typing-svg.herokuapp.com?font=Kanit&color=30A7F7FF&size=30&center=true&vCenter=true&width=500&height=51&multiline=false&lines=Building+one+commit+at+a+time...." alt="Nevt">
@@ -13,7 +17,7 @@
 <p align="center">
   💻 Passionate about learning programming and building cool projects<br>
   🚀 Interested in web development, APIs, and automation<br>
-  🎨 Enjoy experimenting with aesthetic designs (cyberpunk, pixel, greyish themes)<br>
+  🎨 Enjoy experimenting with aesthetic designs<br>
   📱 Curious about WhatsApp bots, custom commands, and creative integrations<br>
   🌱 Currently exploring how to improve my coding skills step by step<br>
 </p>
