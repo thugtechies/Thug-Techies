@@ -24,7 +24,8 @@
   🌱 Currently exploring how to improve my coding skills step by step<br>
 </p>
 
-
+  <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=thugtechies&data=followers,repositories,stars,commits&theme=muted"/>
+  
 <h2 align="center">💡 More Enquires 💡</h2>
 <p align="center">
   <!--img src="https://f.top4top.io/p_3558wtdae0.jpg" alt="banner" width="200" height="200"-->
@@ -43,6 +44,9 @@
 </div>
 
 <h2 align="center">📊 GitHub Stats</h2>
+
+https://github-stats-alpha.vercel.app/api?username=thugtechies&cc=000&tc=fff&ic=fff&bc=000
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThugTechies&theme=algolia&hide_border=false&include_all_commits=true&count_private=true">
   <br>
