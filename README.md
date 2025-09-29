@@ -5,11 +5,11 @@
 <h1 align="center">𒄆𓉳 ƬӇƱƓƝƖƑƖƇƐƝƬ𓉳𒄆's Profile Card</h1>
   
 <div align="center">
-  <img src="https://cardivo.vercel.app/api?name=Thug%20Techies&description=Beginner%20developer%20%7C%20Exploring%20coding%20%7C%20Building%20WhatsApp%20bots%20%7C%20Loves%20aesthetic%20designs&backgroundColor=333333&fontColor=F5F5F5&image=https://f.top4top.io/p_35595ol1q0.jpg&colorPattern=C4C4C4&pattern=ticTacToe&opacity=0.25&instagram=thug_techies&twitter=THUGN_F_CENT" align="center">
+  <img src="https://cardivo.vercel.app/api?name=Thug%20Techies&description=Beginner%20developer%20%7C%20Exploring%20coding%20%7C%20Building%20WhatsApp%20bots%20%7C%20Loves%20aesthetic%20designs&backgroundColor=333333&fontColor=FFFFFF&image=https://f.top4top.io/p_35595ol1q0.jpg&colorPattern=C4C4C4&pattern=ticTacToe&opacity=0.25&instagram=thug_techies&twitter=THUGN_F_CENT" align="center">
 </div>
 
 <p align="center">
-  <a href="https://github.com/thugtechies"><img src="http://readme-typing-svg.herokuapp.com?font=Kanit&color=30A7F7FF&size=30&center=true&vCenter=true&width=500&height=51&multiline=false&lines=Building+one+commit+at+a+time...." alt="Nevt">
+  <a href="https://github.com/thugtechies"><img src="http://readme-typing-svg.herokuapp.com?font=Kanit&color=FFFFFF&size=30&center=true&vCenter=true&width=500&height=51&multiline=false&lines=Building+one+commit+at+a+time...." alt="Nevt">
 </p>
 
 <p align="center">
@@ -59,10 +59,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thugtechies&bg_color=000000&color=63a4ff&line=83eaf1&point=63a4ff&area=true&hide_border=true&radius=8" width="100%">
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+👋;See+you+next+time!+👋;Keep+coding,+keep+creating!+💻" alt="Typing SVG" />
-  </a>
-</div>
+
+<p align="center">
+  <a href="https://github.com/thugtechies"><img src="http://readme-typing-svg.herokuapp.com?font=Kanit&color=FFFFFF&size=30&center=true&vCenter=true&width=500&height=51&multiline=false&lines=Thanks+for+stopping+by!+👋;See+you+next+time!+👋;Keep+coding,+keep+creating!+💻" alt="Nevt">
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:555555,100:333333&height=120&section=footer"/>
