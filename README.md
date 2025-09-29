@@ -52,6 +52,10 @@
 </div>
 
 
+---
+
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThugTechies&theme=algolia&layout=pie&hide_border=true&title_color=FFFFFF&text_color=E0E0E0&bg_color=333333&icon_color=63A4FF" />
 </p>
