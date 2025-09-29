@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:555555,100:333333&height=200&text=Thug%20Techies&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Beginner%20Developer%20%7C%20Exploring%20Coding%20%7C%20WhatsApp%20Bots%20Aesthetics&descAlignY=55&descSize=15"/>
 </div>
 
-<h1 align="center">Profile Card | 𒄆𓉳 ƬӇƱƓƝƖƑƖƇƐƝƬ𓉳𒄆</h1>
+<h1 align="center">𒄆𓉳 ƬӇƱƓƝƖƑƖƇƐƝƬ𓉳𒄆's Profile Card</h1>
   
-<img src="https://cardivo.vercel.app/api?name=Thug%20Techies&description=Beginner%20developer%20%7C%20Exploring%20coding%20%7C%20Building%20WhatsApp%20bots%20%7C%20Loves%20%20aesthetic%20designs&backgroundColor=333333&fontColor=FFFFFF&github=thugtechies&image=https://f.top4top.io/p_35595ol1q0.jpg&colorPattern=C4C4C4&pattern=ticTacToe&opacity=0.25" align="center">
+<img src="https://cardivo.vercel.app/api?name=Thug%20Techies&description=Beginner%20developer%20%7C%20Exploring%20coding%20%7C%20Building%20WhatsApp%20bots%20%7C%20Loves%20aesthetic%20designs&backgroundColor=333333&fontColor=FFFFFF&github=thugtechies&image=https://f.top4top.io/p_35595ol1q0.jpg&colorPattern=C4C4C4&pattern=ticTacToe&opacity=0.25" align="center">
 
 <p align="center">
   <a href="https://github.com/thugtechies"><img src="http://readme-typing-svg.herokuapp.com?font=Kanit&color=30A7F7FF&size=30&center=true&vCenter=true&width=500&height=51&multiline=false&lines=Building+one+commit+at+a+time...." alt="Nevt">
