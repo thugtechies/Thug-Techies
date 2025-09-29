@@ -24,10 +24,15 @@
   🌱 Currently exploring how to improve my coding skills step by step<br>
 </p>
 
-  <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=thugtechies&data=repositories,stars,commits&theme=muted"/>
-  
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,nuxt,next,django,flutter,electron,bootstrap,gatsby,nest,tailwind,windi,express,svelte,angular,dotnetcore,laravel,ionic,dotnet&theme=muted)](https://github.com/Jurredr/github-widgetbox)
-  
+### Tools ⚒️
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=javascript,python,html&theme=muted)](https://github.com/Jurredr/github-widgetbox)  
+
+### Apps I Use 📲
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=youtube,discord,whatsapp,instagram,github,git&theme=muted)](https://github.com/Jurredr/github-widgetbox)
+
+
 <h2 align="center">💡 More Enquires 💡</h2>
 <p align="center">
   <!--img src="https://f.top4top.io/p_3558wtdae0.jpg" alt="banner" width="200" height="200"-->
