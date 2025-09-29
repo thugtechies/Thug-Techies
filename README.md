@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  Hi, my name is <b>Thug</b>. A beginner with minimal coding knowledge
+  Orewa <b>Thug</b>. A beginner with minimal coding knowledge
 </p>
 
 <p align="center">
@@ -43,6 +43,7 @@
   <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
 
+---
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
